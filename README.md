@@ -1,2 +1,2 @@
 # GCodeParser
-Library to parse g-code in c++
+Library to parse g-code in c
